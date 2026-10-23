@@ -1,0 +1,2 @@
+# Release binaries belong in GitHub Release assets, not Git history.
+/v*/
